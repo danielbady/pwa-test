@@ -4,10 +4,24 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "vite.svg",
+      "src": "../vite.svg",
       "type": "image/svg",
       "sizes": "32x32",
       "purpose": "any"
+    },
+    {
+      "src": "test.png",
+      "type": "image/png",
+      "sizes": "1024x768"
+    },
+    {
+      "src": "fff.png",
+      "type": "image/png",
+      "sizes": "144x144"
     }
-  ]
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "TTT",
+  "id": "asdfvzxcv"
 }
