@@ -1,6 +1,6 @@
 {
   "name": "My PWA",
-  "start_url": "pwa-test/",
+  "start_url": "/pwa-test",
   "display": "fullscreen",
   "icons": [
     {
